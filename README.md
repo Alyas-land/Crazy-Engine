@@ -1,7 +1,7 @@
 # 🎮 Crazy DirectX Engine
 Crazy DirectX Engine is a simple and lightweight 3D game engine currently in its early development phase. The goal of this project is to build a custom rendering engine using DirectX 12, focusing on performance, modularity, and scalability.
 
-🚀 Technologies Used
+##🚀 Technologies Used
 This engine is being developed using modern game development principles with a modular architecture to ensure flexibility and future expansion.
 
 C++ - The core programming language, chosen for its efficiency and control over hardware.
